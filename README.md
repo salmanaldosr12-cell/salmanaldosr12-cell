@@ -6,18 +6,21 @@
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<h1 align="center">مرحباً بك في ملفي الشخصي! 👋</h1>
+<div align="center">
+  to my personal GitHub profile!
+</div>
+
+<h1 align="center">Hi there! 👋 I'm Salman Aldawsari</h1>
 
 <div align="center">
-  <h3>أنا <b>سلمان الدوسري</b> 🇸🇦</h3>
-  <p>👨‍💻 طالب علوم حاسب | جامعة الإمام محمد بن سعود الإسلامية</p>
+  <p>💻 Computer Science Student at Imam Mohammad Ibn Saud Islamic University 🇸🇦</p>
 </div>
 
 <hr>
 
 <div align="center">
-  <p>اكتب شيئاً لطيفاً في سجل الزوار (Guest Book):</p>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues">
+  <p>Write something nice in my guest book:</p>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Guestbook+Entry&body=Leave+a+message+here!">
     <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center">
   </a>
 </div>
@@ -25,7 +28,7 @@
 <hr>
 
 <div align="center">
-  <p>أتمنى لك يوماً سعيداً! ☀️</p>
+  <p>Have a good day!</p>
   <div>
     <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
   </div>
@@ -34,11 +37,11 @@
 <br>
 
 <div align="center">
-  <!-- عدّاد الزوار -->
   <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="hit counter" align="center">
 </div>
 
+<br>
+
 <div align="center">
-  <br>
   <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
