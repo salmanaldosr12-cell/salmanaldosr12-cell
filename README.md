@@ -16,6 +16,12 @@
   <p>💻 Computer Science Student at Imam Mohammad Ibn Saud Islamic University 🇸🇦</p>
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/salman-aldosry-2b7178423" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
 <hr>
 
 <div align="center">
