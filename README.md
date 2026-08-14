@@ -10,7 +10,7 @@
   to my personal GitHub profile!
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Salman Aldawsari</h1>
+<h1 align="center">Hi there! 👋 I'm Salman ALdosry</h1>
 
 <div align="center">
   <p>💻 Computer Science Student at Imam Mohammad Ibn Saud Islamic University 🇸🇦</p>
@@ -20,7 +20,7 @@
 
 <div align="center">
   <p>Write something nice in my guest book:</p>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Guestbook+Entry&body=Leave+a+message+here!">
+  <a href="https://github.com/salmanaldosr12-cell/salmanaldosr12-cell/issues/new?title=Guestbook+Entry&body=Leave+a+message+here!">
     <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center">
   </a>
 </div>
@@ -37,7 +37,7 @@
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="hit counter" align="center">
+  <img src="https://profile-counter.glitch.me/salmanaldosr12-cell/count.svg" alt="hit counter" align="center">
 </div>
 
 <br>
